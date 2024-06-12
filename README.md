@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+.Hi, my name is Joaquim
+.I am studing at the alura
+.I am very liking of the studing
 <!--
 **joaquimjose3624/joaquimjose3624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
